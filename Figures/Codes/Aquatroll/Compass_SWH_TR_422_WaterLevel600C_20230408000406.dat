@@ -1,0 +1,6 @@
+"TOA5","Compass_SWH_TR_422","CR1000X","39602","CR1000X.Std.06.01","CPU:COMPASS_v3.3.CR1X","53163","WaterLevel600C"
+"TIMESTAMP","RECORD","PB","Statname","Aquatroll_IDC(1)","Barometric_Pressure600C","Temperature600C","Actual_Conductivity600C","Specific_Conductivity600C","Salinity600C","TDS600C","Water_Density600C","Resistivity600C","pH600C","pH_mV600C","pH_ORP600C","RDO_concen600C","RDO_perc_sat600C","RDO_part_Pressure600C","Pressure600C","Depth600C","Voltage_Ext600C","Battery_Int600C"
+"TS","RN","","","","mmHg","C","uS/cm","uS/cm","PSU","ppt","g/cm3","ohm-cm","pH","mV","ORP- mV","mg/L","%Sat","Torr","PSI","cm","V","%"
+"","","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp"
+"2023-04-03 14:00:00",0,422,"COMPASS_SWH_TR","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN"
+"2023-04-03 14:15:00",1,422,"COMPASS_SWH_TR","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN","NAN"
